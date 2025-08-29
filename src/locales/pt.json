@@ -89,7 +89,7 @@
     "subtitle": "Jornalista | Bacharel em Direito | Correspondente Jurídico",
     "buttonModalLabelAbout": "Continuar lendo",
     "paragraph": "Meu nome é Eduardo Barros Hara, responsável pelo Café com Direito. Sou Jornalista registrado (MTB – n° 0079876/SP), Bacharel em Direito e Correspondente Jurídico.",
-    "modal": "Meu nome é Eduardo Barros Hara, responsável pelo Café com Direito. Sou Jornalista registrado (MTB – XXXX), Bacharel em Direito e Correspondente Jurídico. <br/><br/>Atuo com seriedade, responsabilidade e comprometimento, unindo minha experiência no jornalismo – com foco na produção de conteúdo jurídico informativo – à minha prática como Bacharel em Direito, oferecendo suporte especializado a advogados e escritórios. <br/><br/>Meu objetivo é agilizar o dia a dia jurídico dos profissionais da área, com qualidade, ética e soluções práticas, fortalecendo a conexão entre informação, Direito e gestão de negócios. ",
+    "modal": "Meu nome é Eduardo Barros Hara, responsável pelo Café com Direito. Sou Jornalista registrado (MTB – n° 0079876/SP), Bacharel em Direito e Correspondente Jurídico. <br/><br/>Atuo com seriedade, responsabilidade e comprometimento, unindo minha experiência no jornalismo – com foco na produção de conteúdo jurídico informativo – à minha prática como Bacharel em Direito, oferecendo suporte especializado a advogados e escritórios. <br/><br/>Meu objetivo é agilizar o dia a dia jurídico dos profissionais da área, com qualidade, ética e soluções práticas, fortalecendo a conexão entre informação, Direito e gestão de negócios. ",
     "ctaButtonAriaLabel": "",
     "ctaButtonText": "Entre em contato",
     "aboutSocial": {
@@ -115,23 +115,23 @@
     "cards": {
       "card1": {
         "stepNumber": 1,
-        "cardTitle": "Consulta inicial",
-        "cardDescription": "Realizamos uma reunião para entender seu caso e identificar suas necessidades jurídicas."
+        "cardTitle": "Levantamento inicial",
+        "cardDescription": "Conversamos para entender a demanda do advogado ou escritório e alinhar as necessidades do suporte jurídico."
       },
       "card2": {
         "stepNumber": 2,
-        "cardTitle": "Análise detalhada",
-        "cardDescription": "Examinamos todos os aspectos do seu caso, revisando documentos e evidências para obter uma visão completa."
+        "cardTitle": "Análise e organização",
+        "cardDescription": "Revisamos documentos, prazos e informações, estruturando o material necessário para andamento processual ou diligência."
       },
       "card3": {
         "stepNumber": 3,
-        "cardTitle": "Elaboração da estratégia",
-        "cardDescription": "Criamos uma estratégia jurídica personalizada para proteger seus interesses de maneira eficaz."
+        "cardTitle": "Definição das tarefas",
+        "cardDescription": "Planejamos as atividades de apoio — como minutas, protocolos, pesquisas ou diligências externas — sempre dentro dos limites do correspondente."
       },
       "card4": {
         "stepNumber": 4,
-        "cardTitle": "Ação legal",
-        "cardDescription": "Iniciamos e conduzimos as ações judiciais ou o serviço contratado, buscando justiça e soluções personalizadas conforme a necessidade do seu caso."
+        "cardTitle": "Execução do suporte",
+        "cardDescription": "Realizamos o serviço acordado (ex.: acompanhamento em fóruns, retirada de documentos, elaboração de peças sem assinatura), entregando tudo de forma organizada e pronta para o advogado responsável dar prosseguimento."
       }
     }
   },
@@ -150,19 +150,19 @@
     "questions": {
       "question1": {
         "question": "Como posso contratar seus serviços?",
-        "answer": "Agende sua consulta conosco via WhatsApp e conversaremos sobre suas necessidades e avaliaremos os custos."
+        "answer": "O contato é feito diretamente pelo WhatsApp. Conversamos sobre a demanda e apresento as opções de apoio, com prazos e custos definidos de forma transparente."
       },
       "question2": {
-        "question": "Qual é o prazo médio para resolução de um caso?",
-        "answer": "O prazo médio varia conforme a complexidade, mas discutiremos uma estimativa durante a consulta inicial."
+        "question": "Qual é o prazo médio para execução dos serviços?",
+        "answer": "Depende do tipo de atividade (ex.: diligências, minutas, pesquisas). Sempre alinhamos uma estimativa realista antes de iniciar o trabalho."
       },
       "question3": {
-        "question": "Quais documentos devo levar para a consulta?",
-        "answer": "Traga os documentos relevantes ao seu caso, como contratos, correspondências e registros, além de documentos pessoais e comprovante de residência."
+        "question": "Quais documentos devo disponibilizar?",
+        "answer": "Os documentos variam conforme a demanda — por exemplo, petições, contratos ou informações de processos. Orientamos previamente quais materiais são necessários."
       },
       "question4": {
-        "question": "Vocês oferecem serviços de consultoria preventiva?",
-        "answer": "Sim, oferecemos consultoria preventiva para evitar problemas futuros e garantir conformidade legal."
+        "question": "Vocês oferecem consultoria jurídica?",
+        "answer": "Não. Atuo exclusivamente como apoio técnico e correspondente, sem consultoria direta ao público e sempre respeitando os limites legais do bacharel em Direito."
       }
     },
     "paragraph": "Clique aqui caso tenha mais dúvidas"
