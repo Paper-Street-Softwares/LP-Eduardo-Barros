@@ -106,12 +106,14 @@ export default function FeaturesParagraphs({ colorMode }) {
               );
             })}
 
-            <p className="font-mainFont w-[90%] desktop1:w-[80%] text-black/70 text-center">
-              Atuo exclusivamente como apoio técnico, respeitando os limites
-              legais do bacharel em Direito. Não presto serviços de consultoria
-              jurídica ao público, não assino peças e não realizo protocolos em
-              nome próprio.
-            </p>
+            <MotionDivDownToUp className="w-full">
+              <p className="font-mainFont w-[90%] m-auto desktop1:w-[80%] text-black/70 text-center">
+                Atuo exclusivamente como apoio técnico, respeitando os limites
+                legais do bacharel em Direito. Não presto serviços de
+                consultoria jurídica ao público, não assino peças e não realizo
+                protocolos em nome próprio.
+              </p>
+            </MotionDivDownToUp>
           </div>
         </div>
       </SectionWrapper>
