@@ -97,8 +97,8 @@ export default function FeaturesParagraphs({ colorMode }) {
                   />
                   <Button
                     size="small"
-                    className="bg-darker"
-                    labelColor="text-white"
+                    className="bg-buttonColor"
+                    labelColor="text-black"
                     label={t(`features.card${num}.buttonLabel`)}
                     onClick={() => openModal(num)}
                   />
