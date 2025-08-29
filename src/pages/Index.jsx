@@ -69,8 +69,8 @@ export default function Index() {
         button={false}
         modalWithCards={false}
         paragraphs={false}
-        sixCards={true}
-        paragraphsModal={false}
+        sixCards={false}
+        paragraphsModal={true}
       />
 
       <About modal={true} showGallery={false} colorMode={colorMode} />

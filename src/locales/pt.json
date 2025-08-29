@@ -27,51 +27,51 @@
     }
   },
   "features": {
-    "miniTag": "A_Definir",
-    "title": "A_Definir",
-    "subtitle": "A_Definir",
+    "miniTag": "Áreas de Atuação",
+    "title": "Soluções jurídicas em diferentes frentes",
+    "subtitle": "Apoio técnico e especializado para advogados, escritórios e estudantes de Direito, com foco em agilidade, organização e precisão.",
     "card1": {
-      "title": "A_Definir",
-      "subtitle": "A_Definir",
-      "description": "A_Definir",
+      "title": "Apoio Jurídico e Processual",
+      "subtitle": "Suporte técnico para otimizar o dia a dia forense.",
+      "description": "Elaboração de minutas de petições, contestações, réplicas e recursos (sem assinatura). <br/><br/> Pesquisas de jurisprudência, doutrina e legislação. <br/><br/> Elaboração de relatórios jurídicos e quadros comparativos. <br/><br/> Revisão e organização de documentos processuais. <br/><br/> Controle e gestão de prazos processuais. <br/><br/> Acompanhamento processual (consulta e extração de andamentos no PJe, e-SAJ etc.). <br/><br/> Cálculos básicos de liquidação inicial.",
       "buttonLabelModal": "A_Definir",
-      "buttonLabel": "A_Definir"
+      "buttonLabel": "Saiba mais"
     },
     "card2": {
-      "title": "A_Definir",
-      "subtitle": "A_Definir",
-      "description": "A_Definir",
+      "title": "Serviços de Correspondente Jurídico",
+      "subtitle": "Agilidade em diligências presenciais e digitais.",
+      "description": "Protocolos físicos e digitais em fóruns, cartórios e órgãos públicos. <br/><br/> Retirada de alvarás, certidões e ofícios. <br/><br/> Obtenção de cópias processuais (físicas e digitais). <br/><br/> Diligências administrativas em órgãos públicos e privados. <br/><br/> Acompanhamento em cartórios (registros, certidões, averbações). <br/><br/> Despachos administrativos junto a repartições públicas. ",
       "buttonLabelModal": "A_Definir",
-      "buttonLabel": "A_Definir"
+      "buttonLabel": "Saiba mais"
     },
     "card3": {
-      "title": "A_Definir",
-      "subtitle": "A_Definir",
-      "description": "A_Definir",
+      "title": "Consultoria Documental e Organizacional",
+      "subtitle": "Estruturação e análise de documentos para maior segurança.",
+      "description": "Organização de pastas e arquivos jurídicos (digitais ou físicos). <br/><br/> Levantamento e análise preliminar de documentos para inventários, usucapião, contratos etc. <br/><br/> Apoio em regularização imobiliária e empresarial (levantamento de certidões, juntas comerciais). <br/><br/> Elaboração de checklists documentais personalizados para clientes e advogados.",
       "buttonLabelModal": "A_Definir",
-      "buttonLabel": "A_Definir"
+      "buttonLabel": "Saiba mais"
     },
     "card4": {
-      "title": "A_Definir",
-      "subtitle": "A_Definir",
-      "description": "A_Definir",
+      "title": "Produção de Conteúdo Jurídico",
+      "subtitle": "Informação jurídica clara e acessível em diversos formatos.",
+      "description": "Criação de posts e artigos informativos para blogs, redes sociais e sites de advocacia. <br/><br/> Elaboração de eBooks e cartilhas jurídicas para público leigo (ex.: Direitos do Consumidor, Direito de Família, Contratos). <br/><br/> Criação de resumos e materiais de estudo em Direito. <br/><br/> Revisão de artigos científicos, TCCs e trabalhos acadêmicos jurídicos. <br/><br/> Apoio em produção de cursos e treinamentos jurídicos introdutórios. ",
       "buttonLabelModal": "A_Definir",
-      "buttonLabel": "A_Definir",
+      "buttonLabel": "Saiba mais",
       "servicesButton": "A_Definir"
     },
     "card5": {
-      "title": "A_Definir",
-      "subtitle": "A_Definir",
-      "description": "A_Definir",
+      "title": "Serviços Acadêmicos e de Pesquisa",
+      "subtitle": "Apoio técnico para pesquisas e trabalhos em Direito.",
+      "description": "Apoio em pesquisas para teses, dissertações e monografias em Direito. <br/><br/> Organização de referências bibliográficas (ABNT, APA etc.). <br/><br/> Elaboração de fichamentos de obras jurídicas. <br/><br/> Resumos de jurisprudência e doutrina para fins acadêmicos.",
       "buttonLabelModal": "A_Definir",
-      "buttonLabel": "A_Definir"
+      "buttonLabel": "Saiba mais"
     },
     "card6": {
-      "title": "A_Definir",
-      "subtitle": "A_Definir",
-      "description": "A_Definir",
+      "title": "Diferenciais",
+      "subtitle": "Parceria confiável, precisão e clareza em cada entrega.",
+      "description": "✔ Experiência em ambiente jurídico. <br/><br/> ✔ Foco em agilidade, organização e precisão. <br/><br/> ✔ Atuação como parceiro de advogados e escritórios, oferecendo suporte confiável. <br/><br/> ✔ Produção de conteúdos claros e acessíveis para o público em geral. <br/><br/> Todo material é entregue em formato Word, pronto para revisão, assinatura e protocolo pelo advogado responsável. ",
       "buttonLabelModal": "A_Definir",
-      "buttonLabel": "A_Definir"
+      "buttonLabel": "Saiba mais"
     }
   },
   "maps": {
