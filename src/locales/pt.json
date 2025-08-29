@@ -84,19 +84,19 @@
     "imagem": {
       "alt": "imagem about"
     },
-    "miniTag": "A_Definir",
-    "title": "A_Definir",
-    "subtitle": "A_Definir",
+    "miniTag": "QUEM É EDUARDO BARROS HARA",
+    "title": "Minha trajetória",
+    "subtitle": "Jornalista | Bacharel em Direito | Correspondente Jurídico",
     "buttonModalLabelAbout": "Continuar lendo",
-    "paragraph": "A_Definir",
-    "modal": "a_Definir",
+    "paragraph": "Meu nome é Eduardo Barros Hara, responsável pelo Café com Direito. Sou Jornalista registrado (MTB – n° 0079876/SP), Bacharel em Direito e Correspondente Jurídico.",
+    "modal": "Meu nome é Eduardo Barros Hara, responsável pelo Café com Direito. Sou Jornalista registrado (MTB – XXXX), Bacharel em Direito e Correspondente Jurídico. <br/><br/>Atuo com seriedade, responsabilidade e comprometimento, unindo minha experiência no jornalismo – com foco na produção de conteúdo jurídico informativo – à minha prática como Bacharel em Direito, oferecendo suporte especializado a advogados e escritórios. <br/><br/>Meu objetivo é agilizar o dia a dia jurídico dos profissionais da área, com qualidade, ética e soluções práticas, fortalecendo a conexão entre informação, Direito e gestão de negócios. ",
     "ctaButtonAriaLabel": "",
     "ctaButtonText": "Entre em contato",
     "aboutSocial": {
-      "miniTag": "A_Definir",
-      "title": "A_Definir",
-      "subtitle": "A_Definir",
-      "labelInstagram": "A_Definir",
+      "miniTag": "REDES SOCIAIS",
+      "title": "Conecte-se agora mesmo",
+      "subtitle": "Acompanhe nossas redes sociais e fique por dentro de novidades, conteúdos e atualizações que facilitam o dia a dia jurídico.",
+      "labelInstagram": "Siga-me no Instagram",
       "labelFacebook": "A_Definir",
       "labelLinkedin": "A_Definir",
       "labelX": "A_Definir"
