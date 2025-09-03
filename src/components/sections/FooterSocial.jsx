@@ -14,7 +14,7 @@ import ExpedienteFooter from "../sectionElements/footer/ExpedienteFooter.jsx";
 import NavegationTextFooter from "../sectionElements/footer/NavegationTextFooter.jsx";
 import LinksNavegationFooter from "../sectionElements/footer/LinksNavegationFooter.jsx";
 import FooterSocialIcons from "../sectionElements/footer/FooterSocialIcons.jsx";
-import TextFooter from "../sectionElements/footer/textFooter.jsx";
+import TextFooter from "../../components/sectionElements/footer/TextFooter.jsx"
 
 export default function FooterSocial({ colorMode, addres, obs, mode }) {
   // Define estilos com base no colorMode
