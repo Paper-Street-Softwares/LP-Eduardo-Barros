@@ -37,7 +37,7 @@ const FloatingWhatsappButton = ({ buttonType, animation = false }) => {
     <button
       className={`${
         isVisible ? "block animate-fade-in" : "hidden"
-      } fixed bottom-2 right-3 p-4 z-20 rounded-full focus:outline-none`}
+      } fixed bottom-2 left-3 p-4 z-20 rounded-full focus:outline-none`}
       onClick={handleClick}
     >
       {openModal ? null : (

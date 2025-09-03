@@ -149,7 +149,7 @@ export default function Quadrada({ appDownloadButtons, colorMode }) {
                     tablet1:h-[576px] tablet1:min-w-[576px]
                     tablet2:h-[690px] tablet2:min-w-[690px]
                     desktop1:h-[400px] desktop1:min-w-[200px]
-                    desktop2:h-[400px] desktop2:min-w-[400px]
+                    desktop2:h-[400px] desktop2:min-w-[500px]
                     bg-cover bg-no-repeat
                     ${
                       colorMode === "light"

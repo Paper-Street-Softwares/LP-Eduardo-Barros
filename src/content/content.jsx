@@ -50,7 +50,7 @@ import { FileText } from "lucide-react";
 const currentYear = new Date().getFullYear();
 
 export const infos = {
-  name: "Eduardo Barros",
+  name: "Café com Direito",
   email: "contato", // Email desejado pelo cliente
   emailSecundario: "A_Definir", // Email desejado pelo cliente
   domain: "cafecomdireitoonline.com.br ", // Sem "www"

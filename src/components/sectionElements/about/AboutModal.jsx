@@ -15,13 +15,16 @@ export default function AboutModal() {
 
     setModalContent(
       <div className="text-paragraph3">
-        <p className="mb-[20px]">
+        {/* <p className="mb-[20px]">
           <Trans i18nKey="about.subtitle" />
-        </p>
+        </p> */}
 
         <Trans i18nKey="about.modal" components={{ br: <br /> }} />
 
         <div className="mt-4">
+          <p className="mb-[20px]">
+            <Trans i18nKey="about.ctaButtonAriaLabel" />
+          </p>
           <Button
             aria-label={t("about.ctaButtonAriaLabel")}
             label={t("about.ctaButtonText")}

@@ -14,6 +14,7 @@ import ExpedienteFooter from "../sectionElements/footer/ExpedienteFooter.jsx";
 import NavegationTextFooter from "../sectionElements/footer/NavegationTextFooter.jsx";
 import LinksNavegationFooter from "../sectionElements/footer/LinksNavegationFooter.jsx";
 import FooterSocialIcons from "../sectionElements/footer/FooterSocialIcons.jsx";
+import TextFooter from "../../components/sectionElements/footer/TextFooter.jsx"
 
 export default function FooterSocial({ colorMode, addres, obs, mode }) {
   // Define estilos com base no colorMode
@@ -46,6 +47,7 @@ export default function FooterSocial({ colorMode, addres, obs, mode }) {
             {/* Coluna 1 */}
             <div className="flex flex-col gap-y-[16px] desktop1:w-[290px] text-paragraph3">
               <LogoFooter />
+              <TextFooter />
               <PhoneFooter colorMode={colorMode} />
               <EmailFooter />
               {addres && <AdressFooter />}
