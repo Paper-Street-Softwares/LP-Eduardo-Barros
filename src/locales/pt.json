@@ -12,8 +12,8 @@
       "home": "Início",
       "service": "Serviços",
       "about": "Sobre Nós",
-      "faq": "Perguntas Frequentes",
-      "maps": "Mapa"
+      "blog": "Blog",
+      "faq": "Perguntas Frequentes"
     },
     "ctaButtonText": "Contato",
     "ctaButtonTextResponsive": "Contato"
@@ -137,11 +137,11 @@
     }
   },
   "blog": {
-    "miniTag": "A_Definir",
-    "title": "A_Definir",
-    "subtitle": "A_Definir",
+    "miniTag": "BLOG",
+    "title": "Informação jurídica ao seu alcance",
+    "subtitle": "Acompanhe conteúdos exclusivos para manter-se sempre informado.",
     "labelCards": "A_Definir",
-    "label": "A_Definir",
+    "label": "Clique aqui para ver todas as matérias",
     "blogLink": "A_Definir"
   },
   "faq": {
