@@ -1,5 +1,6 @@
 {
   "infos": {
+    "text": " NIHON CONSULTORIA E GESTÃO DE NEGÓCIOS LTDA CNPJ - 13.367.689/0001-39",
     "adress": "Limeira - SP ",
     "adressSecundario": "A_Definir",
     "expediente": "Segunda a sexta-feira: <br/> 8h às 18h",
@@ -20,7 +21,7 @@
   "hero": {
     "miniTag": "Correspondente Jurídico ",
     "title": "Café com <span class=\"text-primary font-bold\">Direito</span>",
-    "subtitle": "Seu portal de notícias e gestão de negócios.",
+    "subtitle": "Portal de notícias e gestão de negócios.",
     "ctaButtonText": "Nossos serviços",
     "obsHero": {
       "text": "Atuação remota em todo o Brasil."
